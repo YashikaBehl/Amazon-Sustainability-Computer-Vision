@@ -1,6 +1,7 @@
 # Amazon Forest Computer Vision
 
 Made by: Yashika Behl
+
 Satellite Image tagging code using PyTorch / Keras
 
 Here is a sample of images we had to work with
