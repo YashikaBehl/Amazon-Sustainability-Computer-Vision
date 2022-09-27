@@ -1,4 +1,6 @@
 # Amazon Forest Computer Vision
+
+Made by: Yashika Behl
 Satellite Image tagging code using PyTorch / Keras
 
 Here is a sample of images we had to work with
@@ -14,8 +16,6 @@ Here is a sample of images we had to work with
 ![](media/road.jpg)
 
 _Source: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data_
-
-> Note: the repo was developed in May 2017 on PyTorch 0.1. PyTorch was publicly announced in January 2017 and has seen tremendous changes since then.
 
 You will find:
   - [A script that output the mean and stddev of your image if you want to train from scratch](https://github.com/mratsim/Amazon_Forest_Computer_Vision/blob/master/compute-mean-std.py#L28)
