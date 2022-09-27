@@ -1,0 +1,11 @@
+data/
+out/
+core
+EDA/
+kernels/
+pretrained-models/
+tmp/
+.ipynb_checkpoints/
+__pycache__/
+snapshots/
+zoo/
